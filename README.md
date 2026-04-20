@@ -1,5 +1,4 @@
-# YouCanCheck (YouCC): Trust-Aware Verification for Vulnerability Datasets
-
+# YouCanCheck (YouCC)
 ![Figure 1](https://drive.google.com/uc?export=view&id=1sBV-lEeP_lkicZ0kQhhf059qIHz2Oj_I)
 
 ## Table I. Comparison of Vulnerability Datasets on Evidence Artifacts and Data-Centric Cleaning
