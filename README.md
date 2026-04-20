@@ -1,5 +1,9 @@
 # YouCanCheck (YouCC): Trust-Aware Verification for Vulnerability Datasets
 
+![Figure 1](https://drive.google.com/uc?export=view&id=1sBV-lEeP_lkicZ0kQhhf059qIHz2Oj_I)
+
+
+
 A research repository for **evidence-aware verification of vulnerability-labeled C/C++ datasets** using row-local retrieval, heuristic validity scoring, and downstream model evaluation.
 
 ---
@@ -16,6 +20,10 @@ Public vulnerability datasets are widely used to train and evaluate machine lear
 
 This repository contains the workflow, models, evaluation logic, and result organization for the YouCC framework.
 
+![Figure 2](https://drive.google.com/uc?export=view&id=1Jxa6RC3Jua7QwhC3UGeaurUOe_LlLP00)
+
+
+
 ---
 
 ## Motivation
@@ -28,6 +36,11 @@ In vulnerability detection research, model performance is often reported without
 - patch-linked heuristics
 
 YouCC is designed to shift the focus from **benchmark consumption** to **benchmark verification**.
+
+
+![Figure 3](https://drive.google.com/uc?export=view&id=1J1QIpmcPtGELBZx-kDAq7zvD_OS3H3Xb)
+
+![Figure 4](https://drive.google.com/uc?export=view&id=1rPJnBmstgWGjrYhHupDmcCePEsIKauPp)
 
 ---
 
@@ -55,14 +68,8 @@ The full pipeline contains three major stages:
 3. **Evaluation of original vs. verified dataset views with multiple code models**
 
 ### Overview
-## Figures
 
-![Figure 1](https://drive.google.com/uc?export=view&id=1sBV-lEeP_lkicZ0kQhhf059qIHz2Oj_I)
 
-![Figure 2](https://drive.google.com/uc?export=view&id=1Jxa6RC3Jua7QwhC3UGeaurUOe_LlLP00)
 
-![Figure 3](https://drive.google.com/uc?export=view&id=1J1QIpmcPtGELBZx-kDAq7zvD_OS3H3Xb)
-
-![Figure 4](https://drive.google.com/uc?export=view&id=1rPJnBmstgWGjrYhHupDmcCePEsIKauPp)
 
 
