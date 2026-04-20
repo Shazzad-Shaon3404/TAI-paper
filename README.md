@@ -160,9 +160,13 @@ The full pipeline contains three major stages:
 2. **YouCC verification using row-local retrieval**
 3. **Evaluation of original vs. verified dataset views with multiple code models**
 
-### Overview
 
-
+@article{shaon2026youcc,
+  title={YouCanCheck: How Can We Trust That Your Dataset's “Vulnerable” Samples Are Truly Vulnerable?},
+  author={Hossain Shaon, Md. Shazzad and Akter, Mst. Shapna},
+  journal={Manuscript under review},
+  year={2026}
+}
 
 
 
