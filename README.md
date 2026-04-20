@@ -115,6 +115,27 @@ YouCC is designed to shift the focus from **benchmark consumption** to **benchma
 | DiverseVul | GraphCodeBERT | Verified | 0.6678 | 0.6400 | 0.7545 | 0.7745 | 0.4312 | 0.7342 |
 
 </details>
+
+
+## Table VI. Percentage Change from Original to Verified View
+
+| Dataset | Model | ΔAcc (%) | ΔF1 (%) | ΔMCC (%) | ΔAUC (%) |
+|---|---|---:|---:|---:|---:|
+| MegaVul | QwenCoder | -1.81 | -1.53 | -4.42 | -1.19 |
+| MegaVul | DeepSeek | 0.97 | 1.01 | 2.37 | -0.14 |
+| MegaVul | UnixCoder | 4.53 | 13.71 | 27.99 | 17.99 |
+| MegaVul | Phi-2B | 0.95 | 1.37 | 2.57 | -0.58 |
+| MegaVul | GraphCodeBERT | 0.57 | 2.06 | 9.34 | -2.62 |
+| CVEFixes | QwenCoder | 19.47 | 33.79 | 120.34 | 12.29 |
+| CVEFixes | DeepSeek | 9.39 | 9.52 | 31.44 | 3.26 |
+| CVEFixes | UnixCoder | 2.67 | 0.15 | 0.25 | 0.31 |
+| CVEFixes | Phi-2B | 2.03 | 0.03 | 2.89 | -4.73 |
+| CVEFixes | GraphCodeBERT | 1.25 | 17.11 | 10.03 | 2.24 |
+| DiverseVul | QwenCoder | 31.98 | 41.65 | 103.41 | 17.73 |
+| DiverseVul | DeepSeek | 15.48 | 3.55 | 43.20 | -1.85 |
+| DiverseVul | UnixCoder | 8.93 | -5.65 | 12.26 | -4.92 |
+| DiverseVul | Phi-2B | 7.62 | -5.34 | 11.58 | -9.62 |
+| DiverseVul | GraphCodeBERT | -4.50 | 17.63 | 9.53 | 2.30 |
 ---
 
 ## Main Contributions
