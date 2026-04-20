@@ -54,10 +54,15 @@ The full pipeline contains three major stages:
 2. **YouCC verification using row-local retrieval**
 3. **Evaluation of original vs. verified dataset views with multiple code models**
 
-### Graphical Overview
+### Overview
+## Figures
 
-```html
-<h2>Graphical Overview</h2>
-<p align="center">
-  <img src="results/figures/graphical_overview.png" alt="YouCC Workflow" width="1000">
-</p>
+![Figure 1](https://drive.google.com/uc?export=view&id=1sBV-lEeP_lkicZ0kQhhf059qIHz2Oj_I)
+
+![Figure 2](https://drive.google.com/uc?export=view&id=1Jxa6RC3Jua7QwhC3UGeaurUOe_LlLP00)
+
+![Figure 3](https://drive.google.com/uc?export=view&id=1J1QIpmcPtGELBZx-kDAq7zvD_OS3H3Xb)
+
+![Figure 4](https://drive.google.com/uc?export=view&id=1rPJnBmstgWGjrYhHupDmcCePEsIKauPp)
+
+
